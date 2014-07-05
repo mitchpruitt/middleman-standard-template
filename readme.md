@@ -1,6 +1,7 @@
 #Middleman Standard Template
 A customized template for all the things I typically require when starting a site from scratch.
 Standard template includes the following:
+
 1. [prefixfree.min.js](http://leaverou.github.io/prefixfree/) - Because fuck vendor prefixes
 2. A few extra directories:
   * `data` (local data)
