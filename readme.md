@@ -14,6 +14,7 @@ Standard template includes the following:
     * `_variables.scss` for variables
     * `_mixins.scss` for mixins
 
+**TO-DO** Change file path for `data` folder. (It currently generates within the `source` folder, instead of beside it.)
 
 ## 1. Add template to Middleman core
 Copy `standard` folder and `standard.rb` into the Middleman's core template directory.
