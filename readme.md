@@ -45,6 +45,3 @@ require 'middleman-core/templates/standard'
 In Terminal (or whatever command line thingy you use), navigate to the directory above where you want to start a new Middleman project and type the following: `middleman init name-of-project --template=standard`
 
 Now, get to work! :coffee: :computer: :shipit:
-
-### TO-DO
-Fix file path for data folder: It currently generates inside of the 'source' folder, instead of beside it.
